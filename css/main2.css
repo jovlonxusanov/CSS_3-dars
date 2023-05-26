@@ -1,0 +1,306 @@
+body{
+    background-color: white;
+    margin: 0;
+    padding: 0;
+}
+.www{
+    width: 1200px;
+    margin: 20px auto;
+    background-color: white;
+    box-sizing: border-box;
+    padding: 15px;
+}
+.pop{
+    width: 500px;
+    height: 500px;
+}
+.pri{
+    display: inline-block;
+    padding: 18px 24px;
+    box-sizing: border-box;
+    text-decoration: none;
+    color: white;
+    background-color: blue;
+    border: 2px solid blue;
+    text-align: center;
+    width: 150px;
+}
+.pri2{
+    display: inline-block;
+    padding: 18px 24px;
+    box-sizing: border-box;
+    text-decoration: none;
+    color: white;
+    background-color: lightgreen;
+    border: 2px solid lightgreen;
+    text-align: center;
+    width: 150px;
+}
+.pri3{
+    display: inline-block;
+    padding: 18px 24px;
+    box-sizing: border-box;
+    text-decoration: none;
+    color: white;
+    background-color: skyblue;
+    border: 2px solid skyblue;
+    text-align: center;
+    width: 100px;
+}
+.pri4{
+    display: inline-block;
+    padding: 18px 24px;
+    box-sizing: border-box;
+    text-decoration: none;
+    color: white;
+    background-color: orange;
+    border: 2px solid orange;
+    text-align: center;
+    width: 150px;
+}
+.pri5{
+    display: inline-block;
+    padding: 18px 24px;
+    box-sizing: border-box;
+    text-decoration: none;
+    color: white;
+    background-color: red;
+    border: 2px solid red;
+    text-align: center;
+    width: 150px;
+}
+.pri6{
+    display: inline-block;
+    padding: 18px 24px;
+    box-sizing: border-box;
+    text-decoration: none;
+    color: blue;
+    border: 2px solid blue;
+    text-align: center;
+    width: 150px;
+    border-radius: 8px;
+}
+.pri7{
+    display: inline-block;
+    padding: 18px 24px;
+    box-sizing: border-box;
+    text-decoration: none;
+    color: lightgreen;
+    border: 2px solid lightgreen;
+    text-align: center;
+    width: 150px;
+    border-radius: 8px;
+}
+.pri8{
+    display: inline-block;
+    padding: 18px 24px;
+    box-sizing: border-box;
+    text-decoration: none;
+    color: skyblue;
+    border: 2px solid skyblue;
+    text-align: center;
+    width: 100px;
+    border-radius: 8px;
+}
+.pri9{
+    display: inline-block;
+    padding: 18px 24px;
+    box-sizing: border-box;
+    text-decoration: none;
+    color: orange;
+    border: 2px solid orange;
+    text-align: center;
+    width: 150px;
+    border-radius: 8px;
+}
+.pri10{
+    display: inline-block;
+    padding: 18px 24px;
+    box-sizing: border-box;
+    text-decoration: none;
+    color: red;
+    border: 2px solid red;
+    text-align: center;
+    width: 150px;
+    border-radius: 8px;
+}
+.pri11{
+    display: inline-block;
+    padding: 18px 24px;
+    box-sizing: border-box;
+    text-decoration: none;
+    color: white;
+    border: 2px solid blue;
+    background-color: blue;
+    text-align: center;
+    width: 150px;
+    border-radius: 8px;
+}
+.pri12{
+    display: inline-block;
+    padding: 18px 24px;
+    box-sizing: border-box;
+    text-decoration: none;
+    color: white;
+    border: 2px solid lightgreen;
+    background-color: lightgreen;
+    text-align: center;
+    width: 150px;
+    border-radius: 8px;
+}
+.pri13{
+    display: inline-block;
+    padding: 18px 24px;
+    box-sizing: border-box;
+    text-decoration: none;
+    color: white;
+    border: 2px solid skyblue;
+    background-color: skyblue;
+    text-align: center;
+    width: 100px;
+    border-radius: 8px;
+}
+.pri14{
+    display: inline-block;
+    padding: 18px 24px;
+    box-sizing: border-box;
+    text-decoration: none;
+    color: white;
+    border: 2px solid orange;
+    background-color: orange;
+    text-align: center;
+    width: 150px;
+    border-radius: 8px;
+}
+.pri15{
+    display: inline-block;
+    padding: 18px 24px;
+    box-sizing: border-box;
+    text-decoration: none;
+    color: white;
+    border: 2px solid red;
+    background-color: red;
+    text-align: center;
+    width: 150px;
+    border-radius: 8px;
+}
+.pri16{
+    display: inline-block;
+    padding: 18px 24px;
+    box-sizing: border-box;
+    text-decoration: none;
+    color: white;
+    border: 2px solid blue;
+    background-color: blue;
+    text-align: center;
+    width: 150px;
+    border-radius: 30px;
+}
+.pri17{
+    display: inline-block;
+    padding: 18px 24px;
+    box-sizing: border-box;
+    text-decoration: none;
+    color: white;
+    border: 2px solid lightgreen;
+    background-color: lightgreen;
+    text-align: center;
+    width: 150px;
+    border-radius: 30px;
+}
+.pri18{
+    display: inline-block;
+    padding: 18px 24px;
+    box-sizing: border-box;
+    text-decoration: none;
+    color: white;
+    border: 2px solid skyblue;
+    background-color: skyblue;
+    text-align: center;
+    width: 100px;
+    border-radius: 30px;
+}
+.pri19{
+    display: inline-block;
+    padding: 18px 24px;
+    box-sizing: border-box;
+    text-decoration: none;
+    color: white;
+    border: 2px solid orange;
+    background-color: orange;
+    text-align: center;
+    width: 150px;
+    border-radius: 30px;
+}
+.pri20{
+    display: inline-block;
+    padding: 18px 24px;
+    box-sizing: border-box;
+    text-decoration: none;
+    color: white;
+    border: 2px solid red;
+    background-color: red;
+    text-align: center;
+    width: 150px;
+    border-radius: 30px;
+}
+.pri21{
+    display: inline-block;
+    padding: 18px 24px;
+    box-sizing: border-box;
+    text-decoration: none;
+    color: white;
+    background-color: blue;
+    text-align: center;
+    width: 150px;
+    border-radius: 8px;
+    border-bottom: 2px solid darkblue;
+}
+.pri22{
+    display: inline-block;
+    padding: 18px 24px;
+    box-sizing: border-box;
+    text-decoration: none;
+    color: white;
+    background-color: lightgreen;
+    text-align: center;
+    width: 150px;
+    border-radius: 8px;
+    border-bottom: 2px solid darkgreen;
+}
+.pri23{
+    display: inline-block;
+    padding: 18px 24px;
+    box-sizing: border-box;
+    text-decoration: none;
+    color: white;
+    background-color: skyblue;
+    text-align: center;
+    width: 100px;
+    border-radius: 8px;
+    border-bottom: 2px solid blue;
+}
+.pri24{
+    display: inline-block;
+    padding: 18px 24px;
+    box-sizing: border-box;
+    text-decoration: none;
+    color: white;
+    background-color: orange;
+    text-align: center;
+    width: 150px;
+    border-radius: 8px;
+    border-bottom: 2px solid darkorange;
+}
+.pri25{
+    display: inline-block;
+    padding: 18px 24px;
+    box-sizing: border-box;
+    text-decoration: none;
+    color: white;
+    background-color: red;
+    text-align: center;
+    width: 150px;
+    border-radius: 8px;
+    border-bottom: 3px solid darkred;
+}
